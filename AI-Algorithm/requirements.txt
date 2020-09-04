@@ -1,0 +1,8 @@
+Flask
+pytest
+pytest-watch
+pylava
+pymysql
+numpy
+pandas
+flask-restful
